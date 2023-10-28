@@ -1,0 +1,10 @@
+ver=1
+start_time=23-10-28(21-23-23)+0700
+total_lines_lns=3765
+tested_lines_lns=3765
+total_errors_lns=67
+authors_lns=Mark Wilson,John,DN,
+categories_lns=total_errors,
+lns_Mark_s_32_e_Wilson=7,
+lns_John=2,
+lns_DN=58,

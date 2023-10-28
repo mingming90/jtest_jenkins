@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 29 14:39:53 ICT 2023
+jtest-maven-plugin-2023.1.0.jar>jtest-local-mirror=
+jtest-maven-plugin-2023.1.0.pom>jtest-local-mirror=
